@@ -1,0 +1,7 @@
+Options +FollowSymlinks All -Indexes
+ErrorDocument 404 /Oops.php
+
+
+
+RewriteEngine on
+RewriteRule ^([A-Za-z0-9_-]+)$ /dyno.php?p=$1

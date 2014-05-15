@@ -1,0 +1,30 @@
+body {
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+background:#FFFFFF;
+background-attachment:fixed; 
+}
+
+body,td,th {
+font-family: arial;
+font-size: 14px;
+color: #ededed;
+}
+a:link {
+color: #FF6600;
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+color: #FF6600;
+}
+a:hover {
+text-decoration: none;
+color: #FF0000;
+}
+a:active {
+text-decoration: none;
+color: #FF6600;
+}
